@@ -1,4 +1,11 @@
 /*  your css code here. If applicable */
+
+.player_one,.player_two{
+	background-color: rgb(255, 255, 255);
+	padding: 50px 90px 5px 90px;
+	border-radius:1px;
+}
+
 li{
 list-style-type:none;
 }
